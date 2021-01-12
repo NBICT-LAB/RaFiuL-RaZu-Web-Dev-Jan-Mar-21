@@ -1,3 +1,0 @@
-{
-    let js(" Aswome ")
-}
